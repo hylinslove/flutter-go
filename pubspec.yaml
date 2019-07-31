@@ -51,6 +51,10 @@ dependencies:
   open_file: ^2.0.1+2
   package_info: ^0.4.0+3
   flutter_jpush: ^0.0.4
+
+  console: ^3.1.0
+  dart_inquirer: ^1.0.0
+  watcher: ^0.9.7+12
   
 
 dev_dependencies:
